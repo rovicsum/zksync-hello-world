@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zkSync Hardhat project template
 
 This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
@@ -49,3 +50,6 @@ Important: zkSync In-memory Node currently supports only the L2 node. If contrac
 ## License
 
 This project is under the [MIT](./LICENSE) license.
+=======
+# zksync-hello-world
+>>>>>>> origin/main
