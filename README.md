@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+Example of the smart contract https://sepolia.explorer.zksync.io/address/0x307C143Fbf51b9dE0924ba3411e9bF030768e9fe
+tx hash for the greeting https://sepolia.explorer.zksync.io/tx/0x52b74b77f10db6221ac712e263a28b7ac4344e68f1debd972a5d98ae9981cf2b
+
 # zkSync Hardhat project template
 
 This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
